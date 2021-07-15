@@ -1,0 +1,8 @@
+.navbar-expand-lg{
+    border-style: outset;
+}
+hr {
+    display: block;
+    border-style: inset;
+    border-width: 1px;
+}
